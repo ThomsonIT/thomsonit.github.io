@@ -1,14 +1,10 @@
 #
 # This file contains configuration flags to customize your site
 #
-name: Your Username
-description: Programmer From Somewhere On Earth
-title: ThomsonIT
-email: kontakt@tboes.de
+name: Blog von Thomas Boes
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Ich bin Programmierer und Webentwickler und hier gebe ich
+  meine Meinung zum besten...
 
 # Build settings
 markdown: kramdown
@@ -27,7 +23,7 @@ footer-links:
   instagram:
   linkedin: 
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: anything? # just type anything here for a working RSS icon
   twitter: ThomsonIT
   stackoverflow: # your stackoverflow profile, e.g. "users/3807565/akshay"
   youtube: # channel/<your_long_string> or user/<user-name>
@@ -36,7 +32,7 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus: thomsonit
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
