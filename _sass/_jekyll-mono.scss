@@ -94,6 +94,10 @@ button.button-primary:focus {
   background: url(#{$background}) no-repeat center fixed;
 }
 
+.post-heading {
+	background: url('/images/pattern.png');
+}
+
 .intro-header .post-heading {
   padding: 50px 0 25px;
   color: $white;
