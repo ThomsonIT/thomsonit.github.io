@@ -90,13 +90,13 @@ button.button-primary:focus {
 
 .intro-header {
   border-top: 5px solid white;
-  background-color:$mono-color;
+  background-color:$darkGray;
+  background: url(#{$background}) no-repeat center fixed;
 }
 
 .intro-header .post-heading {
-  padding: 100px 0 50px;
+  padding: 50px 0 25px;
   color: $white;
-  
 }
 
 .intro-header .post-heading h1 {
