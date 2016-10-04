@@ -229,6 +229,7 @@ nav {
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
+    color: $mono-color;
     
     &:hover, &:active {
       color: darken($navbar-hover-color,20);
