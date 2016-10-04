@@ -88,13 +88,13 @@ button.button-primary:focus {
     *Header
 */
 
-.intro-header {
-  border-top: 5px solid white;
-  background-color:$darkGray;
-  background: url(#{$background}) no-repeat center fixed;
+.intro-background {
+	background-color:$darkGray;
+	background: url(#{$background}) no-repeat center fixed;
 }
 
-.post-heading {
+.intro-header {
+	border-top: 5px solid white;
 	background: url('/images/pattern.png');
 }
 
