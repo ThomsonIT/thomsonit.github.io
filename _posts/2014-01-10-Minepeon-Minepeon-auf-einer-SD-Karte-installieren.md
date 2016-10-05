@@ -6,12 +6,12 @@ categories: raspberrypi mining minepeon
 ---
 Da ich mich technisch etwas mit dem Bitcoin Mining auseinandersetzen wollte, habe ich mir einen ASIC Block Erupter besorgt.
 Dabei handelt es sich um einen kleinen USB-Stick, der für nichts anderes gedacht ist als SHA256 basierte Coins zu generieren.
-Wer daran Interesse hat findet alle nötigen Informationen auf [Google](https://www.google.de/#q=asic+block+erupter).
-![Bitcoin Block Erupter am Rasperry PI](http://i43.tinypic.com/302ctau.jpg)  
-Um diesen Block Erupter zu betreiben kann man nun Software auf dem Mac installieren und diesen dann damit betreiben.
-
+Wer daran Interesse hat findet alle nötigen Informationen auf [Google](https://www.google.de/#q=asic+block+erupter). 
+Um diesen Block Erupter zu betreiben kann man nun Software auf dem Mac installieren und diesen dann damit betreiben. 
 Da ich das ganze aber lieber Stand-Alone betreiben möchte und sowieso einen Raspberry PI in der Ecke liegen habe,
 bietet es sich an auf dem PI ein Linux zu installieren und die Mining-Software darauf zu betreiben.
+
+![Bitcoin Block Erupter am Rasperry PI](http://i43.tinypic.com/302ctau.jpg) 
 Nach einer kurzen Suche bei Google fand ich heraus, dass es ein fertiges Paket mit dem Namen *MinePeon* gibt.
 Diese ist exakt dafür gedacht um spezielle ASIC-Hardware mit dem Raspberry PI zu betreiben.
 Minepeon auf einer SD-Karte zu installieren ist leicht. Das Vorgehen (auf dem Mac) ist wie folgt:  
