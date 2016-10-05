@@ -6,7 +6,8 @@ categories: raspberrypi minepeon mining
 ---
 Da es sich bei Minepeon um ein fertiges System handelt, sind alle Passwörter schon vorher gesetzt. Die Standardkombination sowohl für die htaccess-Abfrage als auch für SSH lautet *minepeon:peon*.
 Das wissen leider auch alle anderen Personen die das System kennen... Und da dieses System prinzipiell dafür genutzt wird um Geld durch das Mining zu verdienen, ist es natürlich ein beliebtes Angriffsziel.
-Daher sollte man unmittelbar nach dem ersten Start des Systems die Passwörter ändern. Zunächst kann man sich in das Webinterface einloggen und unter dem Reiter Settings ein neues Passwort für die htaccess-Abfrage vergeben.  
+Daher sollte man unmittelbar nach dem ersten Start des Systems die Passwörter ändern. Zunächst kann man sich in das Webinterface einloggen und unter dem Reiter Settings ein neues Passwort für die htaccess-Abfrage vergeben.
+
 ![](http://i39.tinypic.com/97pssi.png)  
 Anschließend sollte man sich per SSH verbinden und sowohl das Passwort des Standardnutzers minepeon als auch das root-Passwort ändern.
 
