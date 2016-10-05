@@ -7,7 +7,7 @@ categories: raspberrypi mining minepeon
 Da ich mich technisch etwas mit dem Bitcoin Mining auseinandersetzen wollte, habe ich mir einen ASIC Block Erupter besorgt.
 Dabei handelt es sich um einen kleinen USB-Stick, der für nichts anderes gedacht ist als SHA256 basierte Coins zu generieren.
 Wer daran Interesse hat findet alle nötigen Informationen auf [Google](https://www.google.de/#q=asic+block+erupter).
-![Bitcoin Block Erupter am Rasperry PI](http://i43.tinypic.com/302ctau.jpg)
+![Bitcoin Block Erupter am Rasperry PI](http://i43.tinypic.com/302ctau.jpg)  
 Um diesen Block Erupter zu betreiben kann man nun Software auf dem Mac installieren und diesen dann damit betreiben.
 
 Da ich das ganze aber lieber Stand-Alone betreiben möchte und sowieso einen Raspberry PI in der Ecke liegen habe,
