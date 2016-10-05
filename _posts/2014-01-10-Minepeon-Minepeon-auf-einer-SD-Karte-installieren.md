@@ -25,6 +25,6 @@ Mit *diskutil unmountDisk /dev/disk1* wird die Partition getrennt. Anschließend
 In meinem Fall lautet der Befehl komplett:
 {% highlight bash %}sudo dd bs=1m if=Downloads/Minepeon-0.2.4.3.img of=/dev/disk1{% endhighlight %}
 Für eine Fortschrittsanzeige kann man auch pv verwenden:
-{% highlight bash %}sudo dd bs=1m if=Downloads/Minepeon-0.2.4.3.img | pv -s 8g | sudo dd bs=1m of=/dev/disk1{% endhighlight %}
+{% highlight bash %}sudo dd bs=1m if=Downloads/Minepeon-0.2.4.3.img | pv -s 2g | sudo dd bs=1m of=/dev/disk1{% endhighlight %}
 Nachdem der Schreibvorgang beendet ist, kann man die SD-Karte mit `diskutil eject /dev/disk1` auswerfen.
 Danach kann man die SD-Karte in den Raspberry Pi stecken und das System starten.
