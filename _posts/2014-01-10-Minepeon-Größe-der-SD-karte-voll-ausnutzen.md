@@ -42,7 +42,7 @@ Number  Start     End          Type      File system  Flags
 (parted)
 {% endhighlight %}
 Man sieht hier das Ende der letzten logischen Partition liegt bei 1790,63,31 und die SD-Karte selbst geht bis 15221,63,31. Also ist da noch eine Menge Platz.
-Mit {% highliht bash %}mkpart primary 1791,63,31 15221,63,31{% endhighlight %} legt man eine neue Partition an. Beim ersten Wert geht man eine Stelle höher als das Ende der letzten Partition und beim zweiten bis zum Ende der SD-Karte. Das Ende der SD-Karte sieht man in der Zeile die mit "Disk" anfängt. Mit *print* bekommt man die aktualisierte Tabelle angezeigt.
+Mit {% highlight bash %}mkpart primary 1791,63,31 15221,63,31{% endhighlight %} legt man eine neue Partition an. Beim ersten Wert geht man eine Stelle höher als das Ende der letzten Partition und beim zweiten bis zum Ende der SD-Karte. Das Ende der SD-Karte sieht man in der Zeile die mit "Disk" anfängt. Mit *print* bekommt man die aktualisierte Tabelle angezeigt.
 {% highlight bash %}
 (parted) print                                                            
 Model: SD SMI (sd/mmc)
