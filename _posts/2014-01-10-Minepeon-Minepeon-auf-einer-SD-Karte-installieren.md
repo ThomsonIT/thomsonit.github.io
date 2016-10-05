@@ -11,7 +11,7 @@ Um diesen Block Erupter zu betreiben kann man nun Software auf dem Mac installie
 Da ich das ganze aber lieber Stand-Alone betreiben möchte und sowieso einen Raspberry PI in der Ecke liegen habe,
 bietet es sich an auf dem PI ein Linux zu installieren und die Mining-Software darauf zu betreiben.
 
-![Bitcoin Block Erupter am Rasperry PI](http://i43.tinypic.com/302ctau.jpg) 
+![Bitcoin Block Erupter am Rasperry PI](http://i43.tinypic.com/302ctau.jpg)  
 Nach einer kurzen Suche bei Google fand ich heraus, dass es ein fertiges Paket mit dem Namen *MinePeon* gibt.
 Diese ist exakt dafür gedacht um spezielle ASIC-Hardware mit dem Raspberry PI zu betreiben.
 Minepeon auf einer SD-Karte zu installieren ist leicht. Das Vorgehen (auf dem Mac) ist wie folgt:  
