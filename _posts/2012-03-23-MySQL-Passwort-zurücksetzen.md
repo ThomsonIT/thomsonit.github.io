@@ -3,7 +3,6 @@ layout: post
 title:  "MySQL-Passwort zurücksetzen unter Mac OS X 10.8.2"
 date:   2012-03-23 13:34:21 +0200
 categories: mysql macosx
-author:
 ---
 Diese Anleitung beschreibt, wie man unter Mac OS X 10.8.2 das MySQL-Root-Passwort zurücksetzen kann. Ich habe selbst lange Zeit nach einer Lösung gesucht nachdem mir das MySQL-Passwort abhanden gekommen ist. Da ich keine funktionierende Lösung gefunden habe, habe ich mich selbst in dem MySQL-Manual auf die Suche gemacht und mir die Schritte selbst zusammengesucht. Folgende Schritte waren nötig um das Passwort auf ein beliebiges zu setzen:
 
