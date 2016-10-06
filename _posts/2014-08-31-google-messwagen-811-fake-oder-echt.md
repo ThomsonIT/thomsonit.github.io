@@ -3,6 +3,7 @@ layout: post
 title:  "Google Messwagen 811? Fake oder echt?"
 date:   2014-08-31 12:17:23
 categories: Google
+excerpt: ""
 ---
 Da beschäftige ich mich heute mal wieder etwas mit WLAN-Netzwerken und habe Airodump-ng laufen, was taucht da unter den 
 etwa 34 Access Points die in meiner Umgebung zu erreichen sind auf? Dieser Eintrag:  

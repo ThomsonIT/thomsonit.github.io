@@ -5,6 +5,7 @@ date:   2014-08-18
 categories: snoopyng
 ---
 Mir ist aufgefallen dass in der SQLite Datenbank von snoopy-ng sehr viele Access Points eingetragen werden die entweder keine sind oder deren Daten unvollständig sind. Es sind viele Einträge mit falscher oder gar nicht vorhandener MAC-Adresse und auch die SSIDs sind oft mit vollkommen absurden Einträgen versehen.
+
 ![snoopy.db wifi_ap_ssids](https://www.dropbox.com/s/sv1rpj07qglczcw/Screenshot%202014-08-17%2014.04.24.png?dl=1)
 Da der Code von snoopy-ng offen ist, kann ich mir diesen natürlich auch anschauen. Da ich aber wenig bis kein Python kann, hilft mir das nicht viel. Ich habe mir das trotzdem mal zur Brust genommen und glaube den Grund zu kennen. Wenn diesen Text jemand liest der Python kann und feststellt, dass das alles Blödsinn ist was ich schreibe, würde ich mich über eine Nachricht freuen.
 

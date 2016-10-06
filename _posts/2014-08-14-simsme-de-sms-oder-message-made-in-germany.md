@@ -3,6 +3,7 @@ layout: post
 title:  "SIMSme: de-SMS oder &quot;Message made in Germany&quot;?"
 date:   2014-08-12 19:50:00 +0200
 categories: simsme de-sms
+excerpt: ""
 ---
 Die Deutsche Post hat heute ihren eigenen Messenger mit dem Namen [SIMSme](http://www.sims.me/) vorgestellt.  
 Als hätten wir nicht bereits genug Messenger auf dem Smartphone-Markt. Mittlerweile kann ich meinen Bekannten nicht 

@@ -3,6 +3,7 @@ layout: post
 title:  "Mieter müssen Makler nicht mehr zahlen"
 date:   2014-10-01 10:48:15
 categories: 
+excerpt: ""
 ---
 Seit neuestem ist es so, dass Mieter die Gebühren von Immobilienmaklern nicht mehr bezahlen müssen.  
 Die Maklerbranche hat nun angekündigt dagegen eine Verfassungsbeschwerde einzureichen, weil sie um Ihr Geschäftsmodell fürchtet und dass Vermieter aufgrund der hohen Gebühren die Vermittlung zukünftig selbst übernehmen.  
