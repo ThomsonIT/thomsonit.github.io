@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "snoopy-ng auf dem Raspberry Pi installieren"
-date:   2014-01-17 22:59:00 +0200
+date:   2014-08-10 22:59:00 +0200
 categories: raspberrypi snoopy-ng
 ---
 Ich hab schon wieder eine ganze weile nichts mehr geschrieben...  
