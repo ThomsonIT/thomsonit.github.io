@@ -8,14 +8,14 @@ layout: default
             <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
             <div class="entry">
-            	{% if post.excerpt != null %}
-            		{{ post.excerpt }}
-            	{% else %}
+            	{% if post.excerpt == null %}
             		{{ post.content }}
+            	{% else %}
+            		{{ post.excerpt }}
             	{% endif %}
             </div>
 
-            {% if post.excerpt != null %}
+            {% if post.excerpt == null %}
             	<a href="{{ site.baseurl }}{{ post.url }}" class="button button-primary">Weiterlesen</a>
             {% endif %}
         </article>
