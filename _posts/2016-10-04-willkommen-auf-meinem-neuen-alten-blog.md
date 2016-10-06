@@ -3,6 +3,7 @@ layout: post
 title:  "Willkommen auf meinem neuen alten Blog!"
 date:   2016-10-04 13:34:21 +0200
 categories: 
+excerpt_separator: ""
 ---
 Ich habe jetzt wieder einen Blog, wie man hier unschwer erkennen kann...  
 Ich habe lange nicht mehr gebloggt, habe aber in letzter Zeit immer wieder das Bedürfnis meine Meinung zum besten zu geben. 
