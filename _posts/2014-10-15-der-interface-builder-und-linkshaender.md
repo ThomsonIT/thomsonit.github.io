@@ -19,4 +19,4 @@ In den Einstellungen kann man unter *Misc&Uninstall* den Button *open private.xm
     <autogen>__KeyToKey__ KeyCode::COMMAND_R, KeyCode::CONTROL_L</autogen>
 </item>
 {% endhighlight %}
-Wenn man diesen in die private.xml kopiert und anschließend aktiviert, ist in Xcode die rechte Command Taste zur Control taste gemapped. Für mich sehr angenehm.
+Wenn man diesen in die private.xml kopiert und anschließend aktiviert, ist in Xcode die rechte Command-Taste zur Control-Taste gemapped. Für mich sehr angenehm.
