@@ -4,6 +4,12 @@ layout: post
 title: "Extrem laut & unglaublich nah"
 tags: film
 ---
+---
+layout: post
+title:  "Extrem laut & unglaublich nah"
+tags: film
+excerpt: "Ich habe mir vor kurzem den Film 'Extrem laut & unglaublich nah' angesehen. Ich wusste nicht was ich gucken soll und da ich Tom Hanks sehr mag und seine Filme fast alle sehenswert sind, dachte ich mir warum nicht..."
+---
 Ich habe mir vor kurzem den Film 'Extrem laut & unglaublich nah' angesehen. Ich wusste nicht was ich gucken soll und da ich Tom Hanks sehr mag und seine Filme fast alle sehenswert sind, dachte ich mir warum nicht...
 
 Hier eine Zusammenfassung zu dem Film:
