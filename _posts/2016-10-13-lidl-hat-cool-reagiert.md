@@ -1,8 +1,10 @@
-
 ---
 layout: post
-title: "LIDL hat cool reagiert"
+title:  "LIDL hat cool reagiert"
+date:   2016-10-13
+categories: 
 tags: werbung
+excerpt: ""
 ---
 Bei LIDL ist vor kurzem eine kleine Panne passiert. Ein Pakataufkleber hat zwei Teile eines Plakats vertauscht und so unwissentlich eine Brücke zu Yoda gezogen.
 
