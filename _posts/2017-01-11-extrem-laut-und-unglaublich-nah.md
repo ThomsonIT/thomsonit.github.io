@@ -1,9 +1,3 @@
-
----
-layout: post
-title: "Extrem laut & unglaublich nah"
-tags: film
----
 ---
 layout: post
 title:  "Extrem laut & unglaublich nah"
