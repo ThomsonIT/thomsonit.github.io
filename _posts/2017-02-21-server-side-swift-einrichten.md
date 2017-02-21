@@ -69,6 +69,7 @@ Diesen Alias kann man erweitern (darauf komme ich in einem der nächsten Blogpos
 
 Noch eine kleine Anmerkung:
 Möchte man das Projekt in Xcode bauen lassen, muss man noch das aktive Scheme vom Projekt auf die ausführbare Datei setzen. Sonst kompiliert Xcode nicht!
+
 ![Xcode edit scheme](https://blog.tboes.de/files/xcode_scheme.png)
 
 
